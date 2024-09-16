@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686685737419",
+    "project_id": "swapshop-cc91b",
+    "storage_bucket": "swapshop-cc91b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686685737419:android:6a4057614b85c686c0e64e",
+        "android_client_info": {
+          "package_name": "com.swapServ.eswapco"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGuOwRN-LmYDulGLDZ9dmGg5NnIfZfoJI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

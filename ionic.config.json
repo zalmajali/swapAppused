@@ -1,0 +1,7 @@
+{
+  "name": "swapAppused",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
